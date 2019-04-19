@@ -1,1 +1,1 @@
-New file to commit
+New file to commit merge conflict
