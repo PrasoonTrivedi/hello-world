@@ -1,1 +1,2 @@
-New file to commit
+New file to commit in merge
+
